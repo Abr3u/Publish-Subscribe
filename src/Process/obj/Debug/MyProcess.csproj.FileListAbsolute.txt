@@ -1,0 +1,65 @@
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\Process\bin\Debug\Process.dll.config
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\Process\bin\Debug\Process.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\Process\bin\Debug\Process.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\Process\obj\Debug\Process.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\Process\obj\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\Process\bin\Debug\Process.dll.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\Process\bin\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\Process\bin\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\Process\obj\Debug\MyProcess.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\Process\obj\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\Process\obj\Debug\Process.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\Process\bin\Debug\Process.dll.config
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\Process\bin\Debug\Process.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\Process\bin\Debug\Process.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\Process\obj\Debug\MyProcess.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\Process\obj\Debug\Process.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\Process\obj\Debug\Process.pdb
+C:\DAD\PubSub_v3.1\Process\bin\Debug\Process.dll.config
+C:\DAD\PubSub_v3.1\Process\bin\Debug\Process.dll
+C:\DAD\PubSub_v3.1\Process\bin\Debug\Process.pdb
+C:\DAD\PubSub_v3.1\Process\obj\Debug\Process.dll
+C:\DAD\PubSub_v3.1\Process\obj\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\Process\bin\Debug\Process.dll.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\Process\bin\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\Process\bin\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\Process\obj\Debug\MyProcess.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\Process\obj\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\Process\obj\Debug\Process.pdb
+C:\DAD\pubsubform\Process\bin\Debug\Process.dll.config
+C:\DAD\pubsubform\Process\bin\Debug\Process.dll
+C:\DAD\pubsubform\Process\bin\Debug\Process.pdb
+C:\DAD\pubsubform\Process\obj\Debug\MyProcess.csprojResolveAssemblyReference.cache
+C:\DAD\pubsubform\Process\obj\Debug\Process.dll
+C:\DAD\pubsubform\Process\obj\Debug\Process.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\Process\bin\Debug\Process.dll.config
+C:\Users\Tiny\Documents\GitHub\PubSubStor\Process\bin\Debug\Process.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\Process\bin\Debug\Process.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\Process\obj\Debug\Process.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\Process\obj\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\Process\bin\Debug\Process.dll.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\Process\bin\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\Process\bin\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\Process\obj\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\Process\obj\Debug\Process.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\Process\bin\Debug\Process.dll.config
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\Process\bin\Debug\Process.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\Process\bin\Debug\Process.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\Process\obj\Debug\Process.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\Process\obj\Debug\Process.pdb
+z:\Desktop\PubSubFinal\Process\bin\Debug\Process.dll.config
+z:\Desktop\PubSubFinal\Process\bin\Debug\Process.dll
+z:\Desktop\PubSubFinal\Process\bin\Debug\Process.pdb
+z:\Desktop\PubSubFinal\Process\obj\Debug\Process.dll
+z:\Desktop\PubSubFinal\Process\obj\Debug\Process.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\Process\bin\Debug\Process.dll.config
+Z:\Documents\PubSub-master(1)\PubSub-master\Process\bin\Debug\Process.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\Process\bin\Debug\Process.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\Process\obj\Debug\MyProcess.csprojResolveAssemblyReference.cache
+Z:\Documents\PubSub-master(1)\PubSub-master\Process\obj\Debug\Process.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\Process\obj\Debug\Process.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\Process\bin\Debug\Process.dll.config
+z:\Desktop\PubSubAlmostThere\PubSub-master\Process\bin\Debug\Process.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\Process\bin\Debug\Process.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\Process\obj\Debug\Process.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\Process\obj\Debug\Process.pdb

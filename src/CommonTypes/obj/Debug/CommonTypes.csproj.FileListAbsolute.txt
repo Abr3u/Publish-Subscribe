@@ -1,0 +1,201 @@
+C:\DAD\secondTry\CommonTypes\bin\Debug\CommonTypes.dll
+C:\DAD\secondTry\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\DAD\secondTry\CommonTypes\bin\Debug\Broker.dll
+C:\DAD\secondTry\CommonTypes\bin\Debug\Publisher.dll
+C:\DAD\secondTry\CommonTypes\bin\Debug\subscriber.dll
+C:\DAD\secondTry\CommonTypes\bin\Debug\TreeNode.dll
+C:\DAD\secondTry\CommonTypes\bin\Debug\Process.dll
+C:\DAD\secondTry\CommonTypes\bin\Debug\Message.dll
+C:\DAD\secondTry\CommonTypes\bin\Debug\Broker.pdb
+C:\DAD\secondTry\CommonTypes\bin\Debug\Publisher.pdb
+C:\DAD\secondTry\CommonTypes\bin\Debug\subscriber.pdb
+C:\DAD\secondTry\CommonTypes\bin\Debug\TreeNode.pdb
+C:\DAD\secondTry\CommonTypes\bin\Debug\Process.pdb
+C:\DAD\secondTry\CommonTypes\bin\Debug\Message.pdb
+C:\DAD\secondTry\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\DAD\secondTry\CommonTypes\obj\Debug\CommonTypes.dll
+C:\DAD\secondTry\CommonTypes\obj\Debug\CommonTypes.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\CommonTypes.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\CommonTypes.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\Broker.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\Publisher.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\subscriber.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\TreeNode.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\Process.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\Message.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\Broker.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\Publisher.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\subscriber.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\TreeNode.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\Process.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\bin\Debug\Message.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\obj\Debug\CommonTypes.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\Broker.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\Publisher.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\subscriber.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\TreeNode.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\Process.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\Message.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\Broker.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\Publisher.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\subscriber.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\TreeNode.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\Process.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\bin\Debug\Message.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\Broker.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\Publisher.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\subscriber.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\Broker.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\Publisher.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\Broker.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\Publisher.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\subscriber.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\TreeNode.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\Process.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\Message.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\Broker.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\Publisher.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\subscriber.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\TreeNode.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\Process.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\bin\Debug\Message.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\DAD\PubSub_v3.1\CommonTypes\bin\Debug\CommonTypes.dll
+C:\DAD\PubSub_v3.1\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\DAD\PubSub_v3.1\CommonTypes\bin\Debug\Message.dll
+C:\DAD\PubSub_v3.1\CommonTypes\bin\Debug\TreeNode.dll
+C:\DAD\PubSub_v3.1\CommonTypes\bin\Debug\Message.pdb
+C:\DAD\PubSub_v3.1\CommonTypes\bin\Debug\TreeNode.pdb
+C:\DAD\PubSub_v3.1\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\DAD\PubSub_v3.1\CommonTypes\obj\Debug\CommonTypes.dll
+C:\DAD\PubSub_v3.1\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\CommonTypes\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\CommonTypes\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\CommonTypes\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\CommonTypes\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\DAD\pubsubform\CommonTypes\bin\Debug\CommonTypes.dll
+C:\DAD\pubsubform\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\DAD\pubsubform\CommonTypes\bin\Debug\Message.dll
+C:\DAD\pubsubform\CommonTypes\bin\Debug\TreeNode.dll
+C:\DAD\pubsubform\CommonTypes\bin\Debug\Message.pdb
+C:\DAD\pubsubform\CommonTypes\bin\Debug\TreeNode.pdb
+C:\DAD\pubsubform\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\DAD\pubsubform\CommonTypes\obj\Debug\CommonTypes.dll
+C:\DAD\pubsubform\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\DAD\PubSubGroup14\CommonTypes\bin\Debug\CommonTypes.dll
+C:\DAD\PubSubGroup14\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\DAD\PubSubGroup14\CommonTypes\bin\Debug\Message.dll
+C:\DAD\PubSubGroup14\CommonTypes\bin\Debug\TreeNode.dll
+C:\DAD\PubSubGroup14\CommonTypes\bin\Debug\Message.pdb
+C:\DAD\PubSubGroup14\CommonTypes\bin\Debug\TreeNode.pdb
+C:\DAD\PubSubGroup14\CommonTypes\obj\Debug\CommonTypes.dll
+C:\DAD\PubSubGroup14\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\CommonTypes\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\CommonTypes\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\CommonTypes\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\CommonTypes\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\GitHub\PubSubStor\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\CommonTypes\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\CommonTypes\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\CommonTypes\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\CommonTypes\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\CommonTypes\obj\Debug\CommonTypes.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\CommonTypes\bin\Debug\CommonTypes.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\CommonTypes\bin\Debug\CommonTypes.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\CommonTypes\bin\Debug\Message.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\CommonTypes\bin\Debug\TreeNode.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\CommonTypes\bin\Debug\Message.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\CommonTypes\bin\Debug\TreeNode.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\CommonTypes\obj\Debug\CommonTypes.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\CommonTypes\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\CommonTypes\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\CommonTypes\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\CommonTypes\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\CommonTypes\obj\Debug\CommonTypes.pdb
+z:\Desktop\PubSubFinal\CommonTypes\bin\Debug\CommonTypes.dll
+z:\Desktop\PubSubFinal\CommonTypes\bin\Debug\CommonTypes.pdb
+z:\Desktop\PubSubFinal\CommonTypes\bin\Debug\Message.dll
+z:\Desktop\PubSubFinal\CommonTypes\bin\Debug\TreeNode.dll
+z:\Desktop\PubSubFinal\CommonTypes\bin\Debug\Message.pdb
+z:\Desktop\PubSubFinal\CommonTypes\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSubFinal\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSubFinal\CommonTypes\obj\Debug\CommonTypes.dll
+z:\Desktop\PubSubFinal\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\Lucília\Downloads\PubSubFinal\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\CommonTypes\bin\Debug\Message.dll
+C:\Users\Lucília\Downloads\PubSubFinal\CommonTypes\bin\Debug\TreeNode.dll
+C:\Users\Lucília\Downloads\PubSubFinal\CommonTypes\bin\Debug\Message.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\CommonTypes\bin\Debug\TreeNode.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Downloads\PubSubFinal\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\Lucília\Downloads\PubSubFinal\CommonTypes\obj\Debug\CommonTypes.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\CommonTypes\bin\Debug\CommonTypes.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\CommonTypes\bin\Debug\CommonTypes.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\CommonTypes\bin\Debug\Message.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\CommonTypes\bin\Debug\TreeNode.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\CommonTypes\bin\Debug\Message.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\CommonTypes\bin\Debug\TreeNode.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+Z:\Documents\PubSub-master(1)\PubSub-master\CommonTypes\obj\Debug\CommonTypes.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\CommonTypes\obj\Debug\CommonTypes.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\CommonTypes\bin\Debug\CommonTypes.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\CommonTypes\bin\Debug\CommonTypes.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\CommonTypes\bin\Debug\Message.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\CommonTypes\bin\Debug\TreeNode.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\CommonTypes\bin\Debug\Message.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\CommonTypes\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSubAlmostThere\PubSub-master\CommonTypes\obj\Debug\CommonTypes.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\CommonTypes\obj\Debug\CommonTypes.pdb
+z:\Desktop\PubSub-master\CommonTypes\bin\Debug\CommonTypes.dll
+z:\Desktop\PubSub-master\CommonTypes\bin\Debug\CommonTypes.pdb
+z:\Desktop\PubSub-master\CommonTypes\bin\Debug\Message.dll
+z:\Desktop\PubSub-master\CommonTypes\bin\Debug\TreeNode.dll
+z:\Desktop\PubSub-master\CommonTypes\bin\Debug\Message.pdb
+z:\Desktop\PubSub-master\CommonTypes\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSub-master\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSub-master\CommonTypes\obj\Debug\CommonTypes.dll
+z:\Desktop\PubSub-master\CommonTypes\obj\Debug\CommonTypes.pdb

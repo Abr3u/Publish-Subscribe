@@ -1,0 +1,3 @@
+Subscriber subscriber1 Subscribe /testtopic
+Freeze broker10
+Publisher publisher1 Publish 1 Ontopic /testtopic Interval 1

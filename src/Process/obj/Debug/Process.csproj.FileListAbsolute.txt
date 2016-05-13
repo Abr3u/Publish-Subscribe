@@ -1,0 +1,12 @@
+C:\DAD\secondTry\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+C:\DAD\secondTry\Process\bin\Debug\Process.dll.config
+C:\DAD\secondTry\Process\bin\Debug\Process.dll
+C:\DAD\secondTry\Process\bin\Debug\Process.pdb
+C:\DAD\secondTry\Process\obj\Debug\Process.dll
+C:\DAD\secondTry\Process\obj\Debug\Process.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\Process\bin\Debug\Process.dll.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\Process\bin\Debug\Process.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\Process\bin\Debug\Process.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\Process\obj\Debug\Process.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\Process\obj\Debug\Process.pdb

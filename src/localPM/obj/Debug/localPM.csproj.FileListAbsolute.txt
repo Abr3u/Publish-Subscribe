@@ -1,0 +1,217 @@
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\localPM\bin\Debug\localPM.exe.config
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\localPM\bin\Debug\localPM.exe
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\localPM\bin\Debug\localPM.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\localPM\obj\Debug\localPM.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\localPM\obj\Debug\localPM.exe
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\localPM\obj\Debug\localPM.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\localPM\bin\Debug\localPM.exe.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\localPM\bin\Debug\localPM.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\localPM\bin\Debug\localPM.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\localPM\obj\Debug\localPM.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\localPM\obj\Debug\localPM.pdb
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\localPM.exe.config
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\localPM.exe
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\localPM.pdb
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\Broker.exe
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\CommonTypes.dll
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\Publisher.exe
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\subscriber.exe
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\TreeNode.dll
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\Message.dll
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\Broker.pdb
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\CommonTypes.pdb
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\Publisher.pdb
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\subscriber.pdb
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\TreeNode.pdb
+C:\DAD\PubSub_v3.1\localPM\bin\Debug\Message.pdb
+C:\DAD\PubSub_v3.1\localPM\obj\Debug\localPM.csprojResolveAssemblyReference.cache
+C:\DAD\PubSub_v3.1\localPM\obj\Debug\localPM.exe
+C:\DAD\PubSub_v3.1\localPM\obj\Debug\localPM.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\localPM.exe.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\localPM.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\localPM.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\Broker.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\Publisher.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\subscriber.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\Broker.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\Publisher.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\obj\Debug\localPM.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\obj\Debug\localPM.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\localPM\obj\Debug\localPM.pdb
+C:\DAD\pubsubform\localPM\bin\Debug\localPM.exe.config
+C:\DAD\pubsubform\localPM\bin\Debug\localPM.exe
+C:\DAD\pubsubform\localPM\bin\Debug\localPM.pdb
+C:\DAD\pubsubform\localPM\bin\Debug\Broker.exe
+C:\DAD\pubsubform\localPM\bin\Debug\CommonTypes.dll
+C:\DAD\pubsubform\localPM\bin\Debug\Publisher.exe
+C:\DAD\pubsubform\localPM\bin\Debug\subscriber.exe
+C:\DAD\pubsubform\localPM\bin\Debug\TreeNode.dll
+C:\DAD\pubsubform\localPM\bin\Debug\Message.dll
+C:\DAD\pubsubform\localPM\bin\Debug\Broker.pdb
+C:\DAD\pubsubform\localPM\bin\Debug\CommonTypes.pdb
+C:\DAD\pubsubform\localPM\bin\Debug\Publisher.pdb
+C:\DAD\pubsubform\localPM\bin\Debug\subscriber.pdb
+C:\DAD\pubsubform\localPM\bin\Debug\TreeNode.pdb
+C:\DAD\pubsubform\localPM\bin\Debug\Message.pdb
+C:\DAD\pubsubform\localPM\obj\Debug\localPM.csprojResolveAssemblyReference.cache
+C:\DAD\pubsubform\localPM\obj\Debug\localPM.exe
+C:\DAD\pubsubform\localPM\obj\Debug\localPM.pdb
+C:\DAD\PubSubGroup14\localPM\bin\Debug\localPM.exe.config
+C:\DAD\PubSubGroup14\localPM\bin\Debug\localPM.exe
+C:\DAD\PubSubGroup14\localPM\bin\Debug\localPM.pdb
+C:\DAD\PubSubGroup14\localPM\bin\Debug\Broker.exe
+C:\DAD\PubSubGroup14\localPM\bin\Debug\CommonTypes.dll
+C:\DAD\PubSubGroup14\localPM\bin\Debug\Publisher.exe
+C:\DAD\PubSubGroup14\localPM\bin\Debug\subscriber.exe
+C:\DAD\PubSubGroup14\localPM\bin\Debug\TreeNode.dll
+C:\DAD\PubSubGroup14\localPM\bin\Debug\Message.dll
+C:\DAD\PubSubGroup14\localPM\bin\Debug\Broker.pdb
+C:\DAD\PubSubGroup14\localPM\bin\Debug\CommonTypes.pdb
+C:\DAD\PubSubGroup14\localPM\bin\Debug\Publisher.pdb
+C:\DAD\PubSubGroup14\localPM\bin\Debug\subscriber.pdb
+C:\DAD\PubSubGroup14\localPM\bin\Debug\TreeNode.pdb
+C:\DAD\PubSubGroup14\localPM\bin\Debug\Message.pdb
+C:\DAD\PubSubGroup14\localPM\obj\Debug\localPM.csprojResolveAssemblyReference.cache
+C:\DAD\PubSubGroup14\localPM\obj\Debug\localPM.exe
+C:\DAD\PubSubGroup14\localPM\obj\Debug\localPM.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\localPM.exe.config
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\localPM.exe
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\localPM.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\Broker.exe
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\Publisher.exe
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\subscriber.exe
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\Broker.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\Publisher.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\obj\Debug\localPM.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\obj\Debug\localPM.exe
+C:\Users\Tiny\Documents\GitHub\PubSubStor\localPM\obj\Debug\localPM.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\localPM.exe.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\localPM.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\localPM.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\Broker.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\Publisher.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\subscriber.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\LoadBalancer.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\Publisher.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\LoadBalancer.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\obj\Debug\localPM.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\obj\Debug\localPM.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\obj\Debug\localPM.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\Broker.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\localPM\bin\Debug\subscriber.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\localPM.exe.config
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\localPM.exe
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\localPM.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\Broker.exe
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\CommonTypes.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\Publisher.exe
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\subscriber.exe
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\TreeNode.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\Message.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\LoadBalancer.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\Broker.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\CommonTypes.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\Publisher.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\subscriber.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\TreeNode.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\Message.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\bin\Debug\LoadBalancer.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\obj\Debug\localPM.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\obj\Debug\localPM.exe
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\localPM\obj\Debug\localPM.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\localPM.exe.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\localPM.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\localPM.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\Broker.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\Publisher.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\subscriber.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\LoadBalancer.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\Broker.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\Publisher.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\bin\Debug\LoadBalancer.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\obj\Debug\localPM.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\obj\Debug\localPM.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\localPM\obj\Debug\localPM.pdb
+z:\Desktop\PubSubFinal\localPM\bin\Debug\localPM.exe.config
+z:\Desktop\PubSubFinal\localPM\bin\Debug\localPM.exe
+z:\Desktop\PubSubFinal\localPM\bin\Debug\localPM.pdb
+z:\Desktop\PubSubFinal\localPM\bin\Debug\Broker.exe
+z:\Desktop\PubSubFinal\localPM\bin\Debug\CommonTypes.dll
+z:\Desktop\PubSubFinal\localPM\bin\Debug\Publisher.exe
+z:\Desktop\PubSubFinal\localPM\bin\Debug\subscriber.exe
+z:\Desktop\PubSubFinal\localPM\bin\Debug\TreeNode.dll
+z:\Desktop\PubSubFinal\localPM\bin\Debug\Message.dll
+z:\Desktop\PubSubFinal\localPM\bin\Debug\LoadBalancer.dll
+z:\Desktop\PubSubFinal\localPM\bin\Debug\Broker.pdb
+z:\Desktop\PubSubFinal\localPM\bin\Debug\CommonTypes.pdb
+z:\Desktop\PubSubFinal\localPM\bin\Debug\Publisher.pdb
+z:\Desktop\PubSubFinal\localPM\bin\Debug\subscriber.pdb
+z:\Desktop\PubSubFinal\localPM\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSubFinal\localPM\bin\Debug\Message.pdb
+z:\Desktop\PubSubFinal\localPM\bin\Debug\LoadBalancer.pdb
+z:\Desktop\PubSubFinal\localPM\obj\Debug\localPM.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSubFinal\localPM\obj\Debug\localPM.exe
+z:\Desktop\PubSubFinal\localPM\obj\Debug\localPM.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\localPM.exe.config
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\localPM.exe
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\localPM.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\Broker.exe
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\CommonTypes.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\Publisher.exe
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\subscriber.exe
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\TreeNode.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\Message.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\Broker.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\CommonTypes.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\Publisher.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\subscriber.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\bin\Debug\Message.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\obj\Debug\localPM.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\obj\Debug\localPM.exe
+z:\Desktop\PubSubAlmostThere\PubSub-master\localPM\obj\Debug\localPM.pdb
+z:\Desktop\PubSub-master\localPM\bin\Debug\localPM.exe.config
+z:\Desktop\PubSub-master\localPM\bin\Debug\localPM.exe
+z:\Desktop\PubSub-master\localPM\bin\Debug\localPM.pdb
+z:\Desktop\PubSub-master\localPM\bin\Debug\Broker.exe
+z:\Desktop\PubSub-master\localPM\bin\Debug\CommonTypes.dll
+z:\Desktop\PubSub-master\localPM\bin\Debug\Publisher.exe
+z:\Desktop\PubSub-master\localPM\bin\Debug\subscriber.exe
+z:\Desktop\PubSub-master\localPM\bin\Debug\TreeNode.dll
+z:\Desktop\PubSub-master\localPM\bin\Debug\Message.dll
+z:\Desktop\PubSub-master\localPM\bin\Debug\Broker.pdb
+z:\Desktop\PubSub-master\localPM\bin\Debug\CommonTypes.pdb
+z:\Desktop\PubSub-master\localPM\bin\Debug\Publisher.pdb
+z:\Desktop\PubSub-master\localPM\bin\Debug\subscriber.pdb
+z:\Desktop\PubSub-master\localPM\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSub-master\localPM\bin\Debug\Message.pdb
+z:\Desktop\PubSub-master\localPM\obj\Debug\localPM.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSub-master\localPM\obj\Debug\localPM.exe
+z:\Desktop\PubSub-master\localPM\obj\Debug\localPM.pdb

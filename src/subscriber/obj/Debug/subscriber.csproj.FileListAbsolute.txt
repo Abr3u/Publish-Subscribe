@@ -1,0 +1,222 @@
+C:\DAD\secondTry\subscriber\obj\Debug\subscriber.csprojResolveAssemblyReference.cache
+C:\DAD\secondTry\subscriber\bin\Debug\subscriber.dll.config
+C:\DAD\secondTry\subscriber\bin\Debug\subscriber.dll
+C:\DAD\secondTry\subscriber\bin\Debug\subscriber.pdb
+C:\DAD\secondTry\subscriber\bin\Debug\Message.dll
+C:\DAD\secondTry\subscriber\bin\Debug\Process.dll
+C:\DAD\secondTry\subscriber\bin\Debug\Message.pdb
+C:\DAD\secondTry\subscriber\bin\Debug\Process.pdb
+C:\DAD\secondTry\subscriber\obj\Debug\subscriber.dll
+C:\DAD\secondTry\subscriber\obj\Debug\subscriber.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\subscriber\bin\Debug\subscriber.dll.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\subscriber\bin\Debug\subscriber.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\subscriber\bin\Debug\subscriber.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\subscriber\bin\Debug\Message.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\subscriber\bin\Debug\Process.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\subscriber\bin\Debug\Message.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\subscriber\bin\Debug\Process.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\subscriber\obj\Debug\subscriber.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\subscriber\obj\Debug\subscriber.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\subscriber\bin\Debug\subscriber.dll.config
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\subscriber\bin\Debug\subscriber.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\subscriber\bin\Debug\subscriber.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\subscriber\bin\Debug\Message.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\subscriber\bin\Debug\Process.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\subscriber\bin\Debug\Message.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\subscriber\bin\Debug\Process.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\subscriber\obj\Debug\subscriber.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\subscriber\obj\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\subscriber\bin\Debug\subscriber.dll.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\subscriber\bin\Debug\subscriber.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\subscriber\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\subscriber\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\subscriber\bin\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\subscriber\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\subscriber\bin\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\subscriber\obj\Debug\subscriber.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\subscriber\obj\Debug\subscriber.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\subscriber\bin\Debug\subscriber.dll.config
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\subscriber\bin\Debug\subscriber.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\subscriber\bin\Debug\subscriber.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\subscriber\bin\Debug\Message.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\subscriber\bin\Debug\Process.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\subscriber\bin\Debug\Message.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\subscriber\bin\Debug\Process.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\subscriber\obj\Debug\subscriber.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\subscriber\obj\Debug\subscriber.pdb
+C:\DAD\PubSub_v3.1\subscriber\bin\Debug\subscriber.exe.config
+C:\DAD\PubSub_v3.1\subscriber\bin\Debug\subscriber.exe
+C:\DAD\PubSub_v3.1\subscriber\bin\Debug\subscriber.pdb
+C:\DAD\PubSub_v3.1\subscriber\bin\Debug\CommonTypes.dll
+C:\DAD\PubSub_v3.1\subscriber\bin\Debug\Message.dll
+C:\DAD\PubSub_v3.1\subscriber\bin\Debug\TreeNode.dll
+C:\DAD\PubSub_v3.1\subscriber\bin\Debug\CommonTypes.pdb
+C:\DAD\PubSub_v3.1\subscriber\bin\Debug\Message.pdb
+C:\DAD\PubSub_v3.1\subscriber\bin\Debug\TreeNode.pdb
+C:\DAD\PubSub_v3.1\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\DAD\PubSub_v3.1\subscriber\obj\Debug\subscriber.exe
+C:\DAD\PubSub_v3.1\subscriber\obj\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\subscriber\bin\Debug\subscriber.exe.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\subscriber\bin\Debug\subscriber.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\subscriber\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\subscriber\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\subscriber\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\subscriber\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\subscriber\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\subscriber\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\subscriber\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\subscriber\obj\Debug\subscriber.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\subscriber\obj\Debug\subscriber.pdb
+C:\DAD\pubsubform\subscriber\bin\Debug\subscriber.exe.config
+C:\DAD\pubsubform\subscriber\bin\Debug\subscriber.exe
+C:\DAD\pubsubform\subscriber\bin\Debug\subscriber.pdb
+C:\DAD\pubsubform\subscriber\bin\Debug\CommonTypes.dll
+C:\DAD\pubsubform\subscriber\bin\Debug\Message.dll
+C:\DAD\pubsubform\subscriber\bin\Debug\TreeNode.dll
+C:\DAD\pubsubform\subscriber\bin\Debug\CommonTypes.pdb
+C:\DAD\pubsubform\subscriber\bin\Debug\Message.pdb
+C:\DAD\pubsubform\subscriber\bin\Debug\TreeNode.pdb
+C:\DAD\pubsubform\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\DAD\pubsubform\subscriber\obj\Debug\subscriber.exe
+C:\DAD\pubsubform\subscriber\obj\Debug\subscriber.pdb
+C:\DAD\PubSubGroup14\subscriber\bin\Debug\subscriber.exe.config
+C:\DAD\PubSubGroup14\subscriber\bin\Debug\subscriber.exe
+C:\DAD\PubSubGroup14\subscriber\bin\Debug\subscriber.pdb
+C:\DAD\PubSubGroup14\subscriber\bin\Debug\CommonTypes.dll
+C:\DAD\PubSubGroup14\subscriber\bin\Debug\Message.dll
+C:\DAD\PubSubGroup14\subscriber\bin\Debug\TreeNode.dll
+C:\DAD\PubSubGroup14\subscriber\bin\Debug\CommonTypes.pdb
+C:\DAD\PubSubGroup14\subscriber\bin\Debug\Message.pdb
+C:\DAD\PubSubGroup14\subscriber\bin\Debug\TreeNode.pdb
+C:\DAD\PubSubGroup14\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\DAD\PubSubGroup14\subscriber\obj\Debug\subscriber.exe
+C:\DAD\PubSubGroup14\subscriber\obj\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\subscriber\bin\Debug\subscriber.exe.config
+C:\Users\Tiny\Documents\GitHub\PubSubStor\subscriber\bin\Debug\subscriber.exe
+C:\Users\Tiny\Documents\GitHub\PubSubStor\subscriber\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\subscriber\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\subscriber\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\subscriber\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\subscriber\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\subscriber\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\subscriber\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\GitHub\PubSubStor\subscriber\obj\Debug\subscriber.exe
+C:\Users\Tiny\Documents\GitHub\PubSubStor\subscriber\obj\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\bin\Debug\subscriber.exe.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\bin\Debug\subscriber.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\bin\Debug\LoadBalancer.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\bin\Debug\LoadBalancer.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\obj\Debug\subscriber.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\subscriber\obj\Debug\subscriber.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\bin\Debug\subscriber.exe.config
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\bin\Debug\subscriber.exe
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\bin\Debug\subscriber.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\bin\Debug\CommonTypes.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\bin\Debug\LoadBalancer.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\bin\Debug\Message.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\bin\Debug\TreeNode.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\bin\Debug\CommonTypes.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\bin\Debug\LoadBalancer.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\bin\Debug\Message.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\bin\Debug\TreeNode.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\obj\Debug\subscriber.exe
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\subscriber\obj\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\bin\Debug\subscriber.exe.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\bin\Debug\subscriber.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\bin\Debug\LoadBalancer.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\bin\Debug\LoadBalancer.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\obj\Debug\subscriber.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\subscriber\obj\Debug\subscriber.pdb
+z:\Desktop\PubSubFinal\subscriber\bin\Debug\subscriber.exe.config
+z:\Desktop\PubSubFinal\subscriber\bin\Debug\subscriber.exe
+z:\Desktop\PubSubFinal\subscriber\bin\Debug\subscriber.pdb
+z:\Desktop\PubSubFinal\subscriber\bin\Debug\CommonTypes.dll
+z:\Desktop\PubSubFinal\subscriber\bin\Debug\LoadBalancer.dll
+z:\Desktop\PubSubFinal\subscriber\bin\Debug\Message.dll
+z:\Desktop\PubSubFinal\subscriber\bin\Debug\TreeNode.dll
+z:\Desktop\PubSubFinal\subscriber\bin\Debug\CommonTypes.pdb
+z:\Desktop\PubSubFinal\subscriber\bin\Debug\LoadBalancer.pdb
+z:\Desktop\PubSubFinal\subscriber\bin\Debug\Message.pdb
+z:\Desktop\PubSubFinal\subscriber\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSubFinal\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSubFinal\subscriber\obj\Debug\subscriber.exe
+z:\Desktop\PubSubFinal\subscriber\obj\Debug\subscriber.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\bin\Debug\subscriber.exe.config
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\bin\Debug\subscriber.exe
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\bin\Debug\subscriber.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\bin\Debug\CommonTypes.dll
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\bin\Debug\LoadBalancer.dll
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\bin\Debug\Message.dll
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\bin\Debug\TreeNode.dll
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\bin\Debug\CommonTypes.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\bin\Debug\LoadBalancer.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\bin\Debug\Message.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\bin\Debug\TreeNode.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\obj\Debug\subscriber.exe
+C:\Users\Lucília\Downloads\PubSubFinal\subscriber\obj\Debug\subscriber.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\bin\Debug\subscriber.exe.config
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\bin\Debug\subscriber.exe
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\bin\Debug\subscriber.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\bin\Debug\CommonTypes.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\bin\Debug\LoadBalancer.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\bin\Debug\Message.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\bin\Debug\TreeNode.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\bin\Debug\CommonTypes.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\bin\Debug\LoadBalancer.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\bin\Debug\Message.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\bin\Debug\TreeNode.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\obj\Debug\subscriber.exe
+Z:\Documents\PubSub-master(1)\PubSub-master\subscriber\obj\Debug\subscriber.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\bin\Debug\subscriber.exe.config
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\bin\Debug\subscriber.exe
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\bin\Debug\subscriber.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\bin\Debug\CommonTypes.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\bin\Debug\LoadBalancer.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\bin\Debug\Message.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\bin\Debug\TreeNode.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\bin\Debug\CommonTypes.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\bin\Debug\LoadBalancer.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\bin\Debug\Message.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\obj\Debug\subscriber.exe
+z:\Desktop\PubSubAlmostThere\PubSub-master\subscriber\obj\Debug\subscriber.pdb
+z:\Desktop\PubSub-master\subscriber\bin\Debug\subscriber.exe.config
+z:\Desktop\PubSub-master\subscriber\bin\Debug\subscriber.exe
+z:\Desktop\PubSub-master\subscriber\bin\Debug\subscriber.pdb
+z:\Desktop\PubSub-master\subscriber\bin\Debug\CommonTypes.dll
+z:\Desktop\PubSub-master\subscriber\bin\Debug\LoadBalancer.dll
+z:\Desktop\PubSub-master\subscriber\bin\Debug\Message.dll
+z:\Desktop\PubSub-master\subscriber\bin\Debug\TreeNode.dll
+z:\Desktop\PubSub-master\subscriber\bin\Debug\CommonTypes.pdb
+z:\Desktop\PubSub-master\subscriber\bin\Debug\LoadBalancer.pdb
+z:\Desktop\PubSub-master\subscriber\bin\Debug\Message.pdb
+z:\Desktop\PubSub-master\subscriber\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSub-master\subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSub-master\subscriber\obj\Debug\subscriber.exe
+z:\Desktop\PubSub-master\subscriber\obj\Debug\subscriber.pdb

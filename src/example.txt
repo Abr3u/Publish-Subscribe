@@ -1,0 +1,27 @@
+LoggingLevel full
+RoutingPolicy filtering
+Ordering FIFO
+Site site0 Parent none
+Site site1 Parent site0
+Site site2 Parent site0
+Site site3 Parent site0
+Site site4 Parent site1
+Site site5 Parent site1
+Process broker0 Is broker On site0 URL tcp://localhost:9000/broker
+Process broker1 Is broker On site1 URL tcp://localhost:9100/broker
+Process broker2 Is broker On site2 URL tcp://localhost:9200/broker
+Process broker3 Is broker On site3 URL tcp://localhost:9300/broker
+Process broker4 Is broker On site4 URL tcp://localhost:9400/broker
+Process broker5 Is broker On site5 URL tcp://localhost:9500/broker
+Process subscriber1 Is subscriber on site1 URL tcp://localhost:9100/subscriber
+Process subscriber0 Is subscriber on site0 URL tcp://localhost:9000/subscriber
+Process subscriber2 Is subscriber on site3 URL tcp://localhost:9300/subscriber
+Process subscriber3 Is subscriber on site3 URL tcp://localhost:9300/subscriber
+Process subscriber4 Is subscriber on site4 URL tcp://localhost:9400/subscriber
+Process subscriber5 Is subscriber on site5 URL tcp://localhost:9500/subscriber
+Process publisher0 Is publisher on site0 URL tcp://localhost:9000/publisher
+Process publisher1 Is publisher on site1 URL tcp://localhost:9100/publisher
+Process publisher2 Is publisher on site2 URL tcp://localhost:9200/publisher
+Process publisher3 Is publisher on site3 URL tcp://localhost:9300/publisher
+Process publisher4 Is publisher on site4 URL tcp://localhost:9400/publisher
+Process publisher5 Is publisher on site5 URL tcp://localhost:9500/publisher

@@ -1,0 +1,70 @@
+C:\DAD\secondTry\Message\bin\Debug\Message.dll.config
+C:\DAD\secondTry\Message\bin\Debug\Message.dll
+C:\DAD\secondTry\Message\bin\Debug\Message.pdb
+C:\DAD\secondTry\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+C:\DAD\secondTry\Message\obj\Debug\Message.dll
+C:\DAD\secondTry\Message\obj\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\Message\bin\Debug\Message.dll.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\Message\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\Message\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\Message\obj\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\Message\obj\Debug\Message.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\Message\bin\Debug\Message.dll.config
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\Message\bin\Debug\Message.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\Message\bin\Debug\Message.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\Message\obj\Debug\Message.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\Message\obj\Debug\Message.pdb
+C:\DAD\PubSub_v3.1\Message\bin\Debug\Message.dll.config
+C:\DAD\PubSub_v3.1\Message\bin\Debug\Message.dll
+C:\DAD\PubSub_v3.1\Message\bin\Debug\Message.pdb
+C:\DAD\PubSub_v3.1\Message\obj\Debug\Message.dll
+C:\DAD\PubSub_v3.1\Message\obj\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\Message\bin\Debug\Message.dll.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\Message\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\Message\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\Message\obj\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\Message\obj\Debug\Message.pdb
+C:\DAD\pubsubform\Message\bin\Debug\Message.dll.config
+C:\DAD\pubsubform\Message\bin\Debug\Message.dll
+C:\DAD\pubsubform\Message\bin\Debug\Message.pdb
+C:\DAD\pubsubform\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+C:\DAD\pubsubform\Message\obj\Debug\Message.dll
+C:\DAD\pubsubform\Message\obj\Debug\Message.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\Message\bin\Debug\Message.dll.config
+C:\Users\Tiny\Documents\GitHub\PubSubStor\Message\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\Message\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\Message\obj\Debug\Message.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\Message\obj\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\Message\bin\Debug\Message.dll.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\Message\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\Message\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\Message\obj\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\Message\obj\Debug\Message.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\Message\bin\Debug\Message.dll.config
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\Message\bin\Debug\Message.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\Message\bin\Debug\Message.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\Message\obj\Debug\Message.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\Message\obj\Debug\Message.pdb
+z:\Desktop\PubSubFinal\Message\bin\Debug\Message.dll.config
+z:\Desktop\PubSubFinal\Message\bin\Debug\Message.dll
+z:\Desktop\PubSubFinal\Message\bin\Debug\Message.pdb
+z:\Desktop\PubSubFinal\Message\obj\Debug\Message.dll
+z:\Desktop\PubSubFinal\Message\obj\Debug\Message.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\Message\bin\Debug\Message.dll.config
+Z:\Documents\PubSub-master(1)\PubSub-master\Message\bin\Debug\Message.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\Message\bin\Debug\Message.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\Message\obj\Debug\Message.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\Message\obj\Debug\Message.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\Message\bin\Debug\Message.dll.config
+z:\Desktop\PubSubAlmostThere\PubSub-master\Message\bin\Debug\Message.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\Message\bin\Debug\Message.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\Message\obj\Debug\Message.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\Message\obj\Debug\Message.pdb
+z:\Desktop\PubSub-master\Message\bin\Debug\Message.dll.config
+z:\Desktop\PubSub-master\Message\bin\Debug\Message.dll
+z:\Desktop\PubSub-master\Message\bin\Debug\Message.pdb
+z:\Desktop\PubSub-master\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSub-master\Message\obj\Debug\Message.dll
+z:\Desktop\PubSub-master\Message\obj\Debug\Message.pdb

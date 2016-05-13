@@ -1,0 +1,19 @@
+RoutingPolicy filtering
+Ordering FIFO
+LoggingLevel full
+Site site0 Parent none
+Site site1 Parent site0
+Site site2 Parent site0
+Site site3 Parent site0
+Site site4 Parent site1
+Site site5 Parent site1
+Process broker0 is broker On site0 URL tcp://localhost:3333/broker
+Process broker1 is broker On site1 URL tcp://localhost:3335/broker
+Process broker2 is broker On site2 URL tcp://localhost:3337/broker
+Process broker3 is broker On site3 URL tcp://localhost:3340/broker
+Process broker4 is broker On site4 URL tcp://localhost:3341/broker
+Process broker5 is broker On site5 URL tcp://localhost:3342/broker
+Process publisher1 is publisher On site4 URL tcp://localhost:3334/pub
+Process publisher2 is publisher On site5 URL tcp://localhost:3338/pub
+Process subscriber1 is subscriber On site3 URL tcp://localhost:3336/sub
+Process subscriber2 is subscriber On site2 URL tcp://localhost:3339/sub

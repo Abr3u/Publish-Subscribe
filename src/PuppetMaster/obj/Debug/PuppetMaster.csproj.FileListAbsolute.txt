@@ -1,0 +1,427 @@
+C:\DAD\secondTry\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\DAD\secondTry\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\DAD\secondTry\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\DAD\secondTry\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+C:\DAD\secondTry\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\DAD\secondTry\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\DAD\secondTry\PuppetMaster\bin\Debug\Broker.dll
+C:\DAD\secondTry\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\DAD\secondTry\PuppetMaster\bin\Debug\Message.dll
+C:\DAD\secondTry\PuppetMaster\bin\Debug\Process.dll
+C:\DAD\secondTry\PuppetMaster\bin\Debug\Publisher.dll
+C:\DAD\secondTry\PuppetMaster\bin\Debug\subscriber.dll
+C:\DAD\secondTry\PuppetMaster\bin\Debug\TreeNode.dll
+C:\DAD\secondTry\PuppetMaster\bin\Debug\Broker.pdb
+C:\DAD\secondTry\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\DAD\secondTry\PuppetMaster\bin\Debug\Message.pdb
+C:\DAD\secondTry\PuppetMaster\bin\Debug\Process.pdb
+C:\DAD\secondTry\PuppetMaster\bin\Debug\Publisher.pdb
+C:\DAD\secondTry\PuppetMaster\bin\Debug\subscriber.pdb
+C:\DAD\secondTry\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\DAD\secondTry\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\DAD\secondTry\PuppetMaster\obj\Debug\PuppetMaster.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\obj\Debug\PuppetMaster.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\obj\Debug\PuppetMaster.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\PuppetMaster.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\PuppetMaster.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\Broker.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\CommonTypes.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\Message.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\Process.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\Publisher.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\subscriber.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\TreeNode.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\Broker.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\CommonTypes.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\Message.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\Process.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\Publisher.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\subscriber.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\Broker.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\Message.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\Process.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\Publisher.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\subscriber.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\TreeNode.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\Broker.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\Message.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\Process.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\Publisher.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\subscriber.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\Broker.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\Publisher.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\subscriber.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\Broker.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\Publisher.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\Broker.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\Message.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\Process.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\Publisher.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\subscriber.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\TreeNode.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\Broker.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\Message.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\Process.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\Publisher.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\subscriber.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\Broker.exe
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\Message.dll
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\Process.dll
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\Publisher.exe
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\subscriber.exe
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\TreeNode.dll
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\Broker.pdb
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\Message.pdb
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\Process.pdb
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\Publisher.pdb
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\subscriber.pdb
+C:\DAD\PubSub_v3.1\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\DAD\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\DAD\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\DAD\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+C:\DAD\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\DAD\PubSub_v3.1\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\Broker.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\Publisher.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\subscriber.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\Broker.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\Publisher.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Lucília\Documents\GitHub\PubSubv4-Form\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Users\Lucília\Documents\GitHub\PubSubv4-Form\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Users\Lucília\Documents\GitHub\PubSubv4-Form\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\Broker.exe
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\Message.dll
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\Process.dll
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\Publisher.exe
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\subscriber.exe
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\TreeNode.dll
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\Broker.pdb
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\Message.pdb
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\Process.pdb
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\Publisher.pdb
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\subscriber.pdb
+C:\DAD\pubsubform\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\DAD\pubsubform\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\DAD\pubsubform\PuppetMaster\obj\Debug\PubSub.Form1.resources
+C:\DAD\pubsubform\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\DAD\pubsubform\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+C:\DAD\pubsubform\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\DAD\pubsubform\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\Broker.exe
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\Message.dll
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\Process.dll
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\Publisher.exe
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\subscriber.exe
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\TreeNode.dll
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\Broker.pdb
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\Message.pdb
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\Process.pdb
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\Publisher.pdb
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\subscriber.pdb
+C:\DAD\PubSubGroup14\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\DAD\PubSubGroup14\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\DAD\PubSubGroup14\PuppetMaster\obj\Debug\PubSub.Form1.resources
+C:\DAD\PubSubGroup14\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\DAD\PubSubGroup14\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+C:\DAD\PubSubGroup14\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\DAD\PubSubGroup14\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\Broker.exe
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\Process.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\Publisher.exe
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\subscriber.exe
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\Broker.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\Process.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\Publisher.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\obj\Debug\PubSub.Form1.resources
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Users\Tiny\Documents\GitHub\PubSubStor\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\Broker.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\Publisher.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\subscriber.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\LoadBalancer.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\Publisher.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\LoadBalancer.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\obj\Debug\PubSub.Form1.resources
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\Broker.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\PuppetMaster\bin\Debug\subscriber.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\obj\Debug\PubSub.Form1.resources
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\PuppetMaster.exe
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\PuppetMaster.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\Broker.exe
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\CommonTypes.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\Message.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\Process.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\Publisher.exe
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\subscriber.exe
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\TreeNode.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\LoadBalancer.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\Broker.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\CommonTypes.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\Message.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\Process.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\Publisher.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\subscriber.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\TreeNode.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\bin\Debug\LoadBalancer.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\obj\Debug\PuppetMaster.exe
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\Broker.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\Publisher.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\subscriber.exe
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\LoadBalancer.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\Broker.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\Publisher.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\bin\Debug\LoadBalancer.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\obj\Debug\PubSub.Form1.resources
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\PuppetMaster.exe
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\PuppetMaster.pdb
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\Broker.exe
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\CommonTypes.dll
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\Message.dll
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\Process.dll
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\Publisher.exe
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\subscriber.exe
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\TreeNode.dll
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\LoadBalancer.dll
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\Broker.pdb
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\CommonTypes.pdb
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\Message.pdb
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\Process.pdb
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\Publisher.pdb
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\subscriber.pdb
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSubFinal\PuppetMaster\bin\Debug\LoadBalancer.pdb
+z:\Desktop\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSubFinal\PuppetMaster\obj\Debug\PubSub.Form1.resources
+z:\Desktop\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+z:\Desktop\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+z:\Desktop\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.exe
+z:\Desktop\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\Broker.exe
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\Message.dll
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\Process.dll
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\Publisher.exe
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\subscriber.exe
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\TreeNode.dll
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\LoadBalancer.dll
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\Broker.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\Message.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\Process.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\Publisher.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\subscriber.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\bin\Debug\LoadBalancer.pdb
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\obj\Debug\PubSub.Form1.resources
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\Users\Lucília\Downloads\PubSubFinal\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\PuppetMaster.exe
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\PuppetMaster.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\Broker.exe
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\CommonTypes.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\Message.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\Process.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\Publisher.exe
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\subscriber.exe
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\TreeNode.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\LoadBalancer.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\Broker.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\CommonTypes.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\Message.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\Process.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\Publisher.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\subscriber.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\TreeNode.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\bin\Debug\LoadBalancer.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\obj\Debug\PubSub.Form1.resources
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.exe
+Z:\Documents\PubSub-master(1)\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\Broker.exe
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\CommonTypes.dll
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\Message.dll
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\Process.dll
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\Publisher.exe
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\subscriber.exe
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\TreeNode.dll
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\LoadBalancer.dll
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\Broker.pdb
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\CommonTypes.pdb
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\Message.pdb
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\Process.pdb
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\Publisher.pdb
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\subscriber.pdb
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\TreeNode.pdb
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\bin\Debug\LoadBalancer.pdb
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\obj\Debug\PubSub.Form1.resources
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+C:\Users\Lucília\Downloads\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.exe
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\PuppetMaster.exe
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\PuppetMaster.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\Broker.exe
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\CommonTypes.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\Message.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\Process.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\Publisher.exe
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\subscriber.exe
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\TreeNode.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\Broker.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\CommonTypes.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\Message.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\Process.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\Publisher.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\subscriber.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\obj\Debug\PubSub.Form1.resources
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+z:\Desktop\PubSubAlmostThere\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+z:\Desktop\PubSub-master\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+z:\Desktop\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.exe
+z:\Desktop\PubSub-master\PuppetMaster\obj\Debug\PuppetMaster.pdb

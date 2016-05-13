@@ -1,0 +1,117 @@
+C:\DAD\secondTry\TreeNode\obj\Debug\TreeNode.csprojResolveAssemblyReference.cache
+C:\DAD\secondTry\TreeNode\bin\Debug\TreeNode.dll
+C:\DAD\secondTry\TreeNode\bin\Debug\TreeNode.pdb
+C:\DAD\secondTry\TreeNode\bin\Debug\Broker.dll
+C:\DAD\secondTry\TreeNode\bin\Debug\Publisher.dll
+C:\DAD\secondTry\TreeNode\bin\Debug\subscriber.dll
+C:\DAD\secondTry\TreeNode\bin\Debug\Process.dll
+C:\DAD\secondTry\TreeNode\bin\Debug\Message.dll
+C:\DAD\secondTry\TreeNode\bin\Debug\Broker.pdb
+C:\DAD\secondTry\TreeNode\bin\Debug\Publisher.pdb
+C:\DAD\secondTry\TreeNode\bin\Debug\subscriber.pdb
+C:\DAD\secondTry\TreeNode\bin\Debug\Process.pdb
+C:\DAD\secondTry\TreeNode\bin\Debug\Message.pdb
+C:\DAD\secondTry\TreeNode\obj\Debug\TreeNode.dll
+C:\DAD\secondTry\TreeNode\obj\Debug\TreeNode.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\bin\Debug\TreeNode.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\bin\Debug\TreeNode.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\bin\Debug\Broker.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\bin\Debug\Publisher.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\bin\Debug\subscriber.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\bin\Debug\Process.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\bin\Debug\Message.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\bin\Debug\Broker.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\bin\Debug\Publisher.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\bin\Debug\subscriber.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\bin\Debug\Process.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\bin\Debug\Message.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\obj\Debug\TreeNode.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\obj\Debug\TreeNode.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PubSub_v2\TreeNode\obj\Debug\TreeNode.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\bin\Debug\TreeNode.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\bin\Debug\TreeNode.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\bin\Debug\Broker.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\bin\Debug\Publisher.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\bin\Debug\subscriber.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\bin\Debug\Process.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\bin\Debug\Message.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\bin\Debug\Broker.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\bin\Debug\Publisher.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\bin\Debug\subscriber.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\bin\Debug\Process.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\bin\Debug\Message.pdb
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\obj\Debug\TreeNode.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\obj\Debug\TreeNode.dll
+C:\Users\Lucília\Downloads\PubSub_v3-master\PubSub_v3-master\TreeNode\obj\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\bin\Debug\Broker.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\bin\Debug\Publisher.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\bin\Debug\subscriber.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\bin\Debug\Process.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\bin\Debug\Message.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\bin\Debug\Broker.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\bin\Debug\Publisher.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\bin\Debug\subscriber.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\bin\Debug\Process.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\bin\Debug\Message.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\obj\Debug\TreeNode.csprojResolveAssemblyReference.cache
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\obj\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSub_v3.1\TreeNode\obj\Debug\TreeNode.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\bin\Debug\TreeNode.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\bin\Debug\TreeNode.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\bin\Debug\Broker.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\bin\Debug\Publisher.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\bin\Debug\subscriber.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\bin\Debug\Process.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\bin\Debug\Message.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\bin\Debug\Broker.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\bin\Debug\Publisher.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\bin\Debug\subscriber.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\bin\Debug\Process.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\bin\Debug\Message.pdb
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\obj\Debug\TreeNode.csprojResolveAssemblyReference.cache
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\obj\Debug\TreeNode.dll
+C:\Users\Lucília\Documents\GitHub\PubSub_v3.1\TreeNode\obj\Debug\TreeNode.pdb
+C:\DAD\PubSub_v3.1\TreeNode\bin\Debug\TreeNode.dll
+C:\DAD\PubSub_v3.1\TreeNode\bin\Debug\TreeNode.pdb
+C:\DAD\PubSub_v3.1\TreeNode\obj\Debug\TreeNode.dll
+C:\DAD\PubSub_v3.1\TreeNode\obj\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\TreeNode\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\TreeNode\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\TreeNode\obj\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubv4v6\TreeNode\obj\Debug\TreeNode.pdb
+C:\DAD\pubsubform\TreeNode\bin\Debug\TreeNode.dll
+C:\DAD\pubsubform\TreeNode\bin\Debug\TreeNode.pdb
+C:\DAD\pubsubform\TreeNode\obj\Debug\TreeNode.csprojResolveAssemblyReference.cache
+C:\DAD\pubsubform\TreeNode\obj\Debug\TreeNode.dll
+C:\DAD\pubsubform\TreeNode\obj\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\TreeNode\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\TreeNode\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\GitHub\PubSubStor\TreeNode\obj\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\GitHub\PubSubStor\TreeNode\obj\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\TreeNode\bin\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\TreeNode\bin\Debug\TreeNode.pdb
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\TreeNode\obj\Debug\TreeNode.dll
+C:\Users\Tiny\Documents\Visual Studio 2015\Projects\PubSubRedudant\TreeNode\obj\Debug\TreeNode.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\TreeNode\bin\Debug\TreeNode.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\TreeNode\bin\Debug\TreeNode.pdb
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\TreeNode\obj\Debug\TreeNode.dll
+Z:\Documents\Visual Studio 2012\Projects\PubSubRedudant-master\TreeNode\obj\Debug\TreeNode.pdb
+z:\Desktop\PubSubFinal\TreeNode\bin\Debug\TreeNode.dll
+z:\Desktop\PubSubFinal\TreeNode\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSubFinal\TreeNode\obj\Debug\TreeNode.dll
+z:\Desktop\PubSubFinal\TreeNode\obj\Debug\TreeNode.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\TreeNode\bin\Debug\TreeNode.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\TreeNode\bin\Debug\TreeNode.pdb
+Z:\Documents\PubSub-master(1)\PubSub-master\TreeNode\obj\Debug\TreeNode.dll
+Z:\Documents\PubSub-master(1)\PubSub-master\TreeNode\obj\Debug\TreeNode.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\TreeNode\bin\Debug\TreeNode.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\TreeNode\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSubAlmostThere\PubSub-master\TreeNode\obj\Debug\TreeNode.dll
+z:\Desktop\PubSubAlmostThere\PubSub-master\TreeNode\obj\Debug\TreeNode.pdb
+z:\Desktop\PubSub-master\TreeNode\bin\Debug\TreeNode.dll
+z:\Desktop\PubSub-master\TreeNode\bin\Debug\TreeNode.pdb
+z:\Desktop\PubSub-master\TreeNode\obj\Debug\TreeNode.csprojResolveAssemblyReference.cache
+z:\Desktop\PubSub-master\TreeNode\obj\Debug\TreeNode.dll
+z:\Desktop\PubSub-master\TreeNode\obj\Debug\TreeNode.pdb
